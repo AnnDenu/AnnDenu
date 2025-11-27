@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Привет! Я Аня
+# Привет! Я Аня
 
-### Веб-разработчик спешит на помощь! 🚀
+### Веб-разработчик
 
 Я развиваюсь и обучаю студентов в разных направлениях: веб-разработка, разработка мобильных приложений, вёрстка по различным предметным областям
 
@@ -10,17 +10,13 @@
 
 </div>
 
-## 💼 Обо мне
+## Обо мне
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;PHP+%7C+Laravel+%7C+Vue.js;Always+learning+new+things)
-
-</div>
+Full-Stack веб-разработчик. Основной стек: PHP/Laravel для backend и Vue.js для frontend. Также работаю с JavaScript, HTML, CSS. Изучаю Java.
 
 ---
 
-## 🛠️ Технологии и инструменты
+## Технологии и инструменты
 
 <div align="center">
 
@@ -41,7 +37,7 @@
 
 ---
 
-## 📊 Статистика и активность
+## Статистика и активность
 
 <div align="center">
 
@@ -58,25 +54,25 @@
 
 </div>
 
-### 📈 Распределение языков
+### Распределение языков
 
 <div align="center">
 
 | Язык | Процент | Уровень |
 |:----:|:-------:|:-------:|
-| 🐘 **PHP** | ![PHP](https://img.shields.io/badge/42%25-777BB4?style=flat-square&logo=php&logoColor=white) | Продвинутый |
-| 🔴 **Laravel Blade** | ![Laravel](https://img.shields.io/badge/28%25-FF2D20?style=flat-square&logo=laravel&logoColor=white) | Продвинутый |
-| 💚 **Vue.js** | ![Vue](https://img.shields.io/badge/12%25-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | Средний |
-| 🟡 **JavaScript** | ![JavaScript](https://img.shields.io/badge/7%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Средний |
-| 🟠 **HTML** | ![HTML](https://img.shields.io/badge/5%25-E34F26?style=flat-square&logo=html5&logoColor=white) | Средний |
-| 🎨 **CSS** | ![CSS](https://img.shields.io/badge/5%25-1572B6?style=flat-square&logo=css3&logoColor=white) | Средний |
-| ☕ **Java** | ![Java](https://img.shields.io/badge/1%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Начальный |
+| **PHP** | ![PHP](https://img.shields.io/badge/42%25-777BB4?style=flat-square&logo=php&logoColor=white) | Продвинутый |
+| **Laravel Blade** | ![Laravel](https://img.shields.io/badge/28%25-FF2D20?style=flat-square&logo=laravel&logoColor=white) | Продвинутый |
+| **Vue.js** | ![Vue](https://img.shields.io/badge/12%25-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | Средний |
+| **JavaScript** | ![JavaScript](https://img.shields.io/badge/7%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Средний |
+| **HTML** | ![HTML](https://img.shields.io/badge/5%25-E34F26?style=flat-square&logo=html5&logoColor=white) | Средний |
+| **CSS** | ![CSS](https://img.shields.io/badge/5%25-1572B6?style=flat-square&logo=css3&logoColor=white) | Средний |
+| **Java** | ![Java](https://img.shields.io/badge/1%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Начальный |
 
 </div>
 
 ---
 
-## 🎯 Уровень подготовки
+## Уровень подготовки
 
 <div align="center">
 
@@ -90,7 +86,7 @@
 
 ---
 
-## 📬 Связь со мной
+## Контакты
 
 <div align="center">
 
@@ -104,7 +100,5 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AnnDenu&color=FF6B35&style=flat-square&label=Просмотры+профиля)
-
-**Спасибо за визит!** ⭐
 
 </div>
