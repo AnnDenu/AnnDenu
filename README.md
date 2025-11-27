@@ -79,9 +79,6 @@ Full-Stack веб-разработчик. Основной стек: PHP/Laravel
 ### **B+** - Full-Stack Разработчик
 
 **Backend:** PHP/Laravel (70%) | **Frontend:** Vue.js/JS/HTML/CSS (29%) | **Дополнительно:** Java (1%)
-
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=AnnDenu&theme=dark&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)
-
 </div>
 
 ---
@@ -92,13 +89,5 @@ Full-Stack веб-разработчик. Основной стек: PHP/Laravel
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnnDenu)
 [![Email](https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:annadenisova65@yandex.ru)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=AnnDenu&color=FF6B35&style=flat-square&label=Просмотры+профиля)
 
 </div>
